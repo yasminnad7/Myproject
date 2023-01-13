@@ -1,0 +1,56 @@
+body
+{
+    background:rgb(235, 228, 192);
+}
+
+a:link
+{
+    color: maroon;
+    background-color: whitesmoke;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:visited
+{
+    color: darkslategrey;
+    background-color: rgb(165, 117, 117);
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+}
+
+a:hover
+{
+    color: seagreen;
+    background-color: tan;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+}
+
+a:active
+{
+    color: indigo;
+    background-color: thistle;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    color: rgb(78, 12, 50);
+    background-color: none;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
